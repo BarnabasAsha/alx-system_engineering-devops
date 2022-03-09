@@ -1,1 +1,0 @@
-## I/O Redirections in Linux CLI
